@@ -51,15 +51,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-- 🎮 [Echo Runner](https://github.com/aaravjaii/ECHO-RUNNERS): A rhythm-based endless runner game in Unity.
-- 🧠 [AIDERMA](https://github.com/aaravjaii/AIDERMA): AI-powered facial skin analyzer using OpenCV + Flask.
-- ☁️ [weatherAI](https://github.com/aaravjaii/weatherAI): Real-time weather app using OpenWeatherMap API.
-- 🧪 [jupyter-ml-projects](https://github.com/aaravjaii/jupyter-ml-projects): A playground of ML/AI experiments in Jupyter Notebooks.
-
----
-
 ### 🏁 Current Focus
 
 - 🚀 Scaling contributions at [Ground Zero Coders](https://github.com/Ground-Zero-Coders)

@@ -1,5 +1,6 @@
 <p align="center">
-  <img assets/banner.png />
+  <img src="https://raw.githubusercontent.com/aaravjaii/aaravjaii/main/assets/banner.png" alt="Aarav Jai Banner" width="100%" />
+
 </p>
 <h1 align="center">Hi 👋, I'm Aarav Jai</h1>
 

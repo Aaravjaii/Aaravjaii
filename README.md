@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ground-Zero-Coders/.github/main/assets/aaravjaii-banner.png" alt="Aarav Jai Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Aarav Jai</h1>
 
 <p align="center">

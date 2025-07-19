@@ -26,12 +26,13 @@
 
 ---
 
-### 🌐 Connect with Me
 
-- 🌍 Portfolio: [aarav-jai.netlify.app](https://aarav-jai.netlify.app)
-- 📧 Email: [aarav.arwachin@gmail.com](mailto:aarav.arwachin@gmail.com)
-- 💬 Discord: [@aaravjai](https://discord.com/users/838709087633276938)
-- 📍 Location: Delhi-NCR
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-jai-602634330/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/838709087633276938)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=Firefox-Browser&logoColor=white)](https://aarav-jai.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:aarav.arwachin@gmail.com)
 
 ---
 
@@ -53,7 +54,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Matplotlib](https://img.shields.io/pypi/v/matplotlib?label=Matplotlib&color=blue&logo=python&logoColor=white)
-
 
 ---
 

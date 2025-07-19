@@ -52,6 +52,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Matplotlib](https://img.shields.io/pypi/v/matplotlib?label=Matplotlib&color=blue&logo=python&logoColor=white)
+
 
 ---
 

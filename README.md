@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aaravjaii/aaravjaii/main/assets/HEADER.png" alt="Aarav Jai Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Aarav%20Jai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%C2%B7%20AI%20Explorer%20%C2%B7%20CSE%20Student&descAlignY=58&descColor=cccccc" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>Aarav Jai</h1>
-  <p><strong>Game Developer · AI Explorer · CSE Student</strong></p>
   <p><i>Building real things. Solving real problems. Shipping real products.</i></p>
 </div>
 
@@ -46,58 +44,13 @@ From designing enemy AI systems and camera physics in Unity to building computer
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cs" width="48"/><br/>C#
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=unity" width="48"/><br/>Unity
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>Flask
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48"/><br/>OpenCV
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css,kotlin,unity,flask,opencv,tensorflow,androidstudio,git,vscode&perline=7" />
+</div>
 
 ---
 
 ## 🕯️ Featured Project — The Hollow Escape
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aaravjaii/aaravjaii/main/assets/hollow-escape-banner.png" width="80%" alt="The Hollow Escape"/>
-</div>
-
-<br/>
 
 > *A first and third person survival horror game set inside an abandoned asylum. Five minutes. Locked rooms. No second chances.*
 
@@ -139,15 +92,26 @@ From designing enemy AI systems and camera physics in Unity to building computer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravjaii&theme=tokyonight&hide_border=true" width="65%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaravjaii&theme=tokyo-night&hide_border=true" width="95%" />
+</div>
+
 ---
 
 ## 🏁 Currently Working On
 
 - 🎮 Next Unity project — pushing further into procedural systems and game feel
 - 🤖 AI and computer vision projects bridging research and real-world application
+- 📱 Android development with Kotlin
 - 🌐 Open source contributions and developer tools
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%" />
+</div>
 
 <div align="center">
   <i>"The best way to learn is to build something worth using."</i>

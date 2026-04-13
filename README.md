@@ -82,20 +82,20 @@ From designing enemy AI systems and camera physics in Unity to building computer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaravjaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaravjaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravjaii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravjaii&theme=tokyonight&hide_border=true" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=aaravjaii&theme=tokyonight&hide_border=true" width="65%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaravjaii&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaravjaii&theme=tokyonight" width="95%" />
 </div>
 
 ---
